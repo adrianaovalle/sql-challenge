@@ -6,12 +6,13 @@ This is a research project on employees of a corporation from the 1980s and 1990
 ## Data Engineering
 The following picture shows the relationships between each one of the available tables.
 
-![Figure1](EmployeeSQL/ERD_Diagram.png)
+![Figure2](EmployeeSQL/Images/Data_Analysis_1.png)
 
 
 ## Data Analysis
 * List the following details of each employee: employee number, last name, first name, sex, and salary.
 
+![Figure](EmployeeSQL/ERD_Diagram.png)
 
 * List first name, last name, and hire date for employees who were hired in 1986.
 
