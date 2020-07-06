@@ -6,7 +6,9 @@ This is a research project on employees of a corporation from the 1980s and 1990
 ## Data Engineering
 The following picture shows the relationships between each one of the available tables.
 
+![Figure1](ERD_Diagram.png)
 
-## Queries
+
+## Data Analysis
 
 ## Bonus
