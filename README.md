@@ -52,7 +52,7 @@ The most common salary ranges are between $40,000 and $50,000 for about 160,000 
 
 ![Figure](EmployeeSQL/Images/Bonus_1.png)
 
-The graph below presents the average salaries by titles. The Senior Engineer position earns less in average than the engineer, and the assistant engineers earns more than higher ranked engineers which is counter-intuitive. Also staff and Senior Staff earn more than the manager, which should be better analyzed depending on the company's structure.
+The graph below presents the average salaries by titles. The Senior Engineer position earns less in average than the engineer, and the assistant engineer earns more than higher ranked engineers which is counter-intuitive. Also staff and Senior Staff earn more than the manager, which should be better analyzed depending on the company's structure.
 The data seems to have flaws.
 
 ![Figure](EmployeeSQL/Images/Bonus_2.png)
